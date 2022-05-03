@@ -2,11 +2,13 @@
 
 ## WHAT IS IT?
 **SAURUSS** stands for: **S**mart **A**utonomous **U**AV **R**ecognizer for **U**niversal **S**urveillance **S**ystem and it is a fully autonomous surveillance system that uses a drone and sensors to search and spot intruders over a perimeter.
-This system uses:
-- Computer Vison and Deep Learning algorithms to detect the presence of intruders and to guide the drone with AruCo markers
-- A bridge (Raspberry Pi) and perimeter sensors (Arduino Uno) with ad hoc Finite State Machines and communication protocols
+
+This system employ:
+- Computer Vison and Deep Learning algorithms to detect the presence of intruders and to guide a drone (Tello drone) with AruCo markers
+- A bridge (Raspberry Pi 3) and perimeter sensors (Arduino Uno) with ad hoc Finite State Machines and communication protocols
 - An Android smartphone app plus a Telegram Bot to communicate with the system remotely
-- A backend server to handle the users data
+- A backend server (Raspberry Pi 1) to handle the users data
+
 ## ABOUT THE PROJECT
 SAURUSS is a group project developed for the course of [IoT & 3-D Systems (2020-2021)](https://offertaformativa.unimore.it/corso/insegnamento?cds_cod=20-262&aa_ord_id=2009&pds_cod=20-262-2&aa_off_id=2020&lang=ita&ad_cod=IIM-63&aa_corso=1&fac_id=10005&coorte=2020&anno_corrente=2022&durata=2) done at the [University of Modena and Reggio Emilia](https://www.ingmo.unimore.it/site/en/home.html).
 #### Team Members:
