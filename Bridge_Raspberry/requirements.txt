@@ -38,7 +38,7 @@ six==1.12.0
 sklearn==0.0
 SQLAlchemy==1.3.23
 telegram==0.0.1
-tornado==6.1
+tornado==6.3.2
 tzlocal==2.1
 urllib3==1.26.5
 Werkzeug==1.0.1
