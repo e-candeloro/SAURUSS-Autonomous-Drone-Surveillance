@@ -21,7 +21,7 @@ kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mysql-connector-python==8.0.23
-numpy==1.21.0
+numpy==1.22.0
 opencv-python==4.5.1.48
 protobuf==3.15.0
 pycparser==2.20
